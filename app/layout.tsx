@@ -6,15 +6,15 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "Pardeep",
-    template: "%s | Pardeep",
+    default: "Pardeep Singh",
+    template: "%s | Pardeep Singh",
   },
   description: "Senior Software Engineer at Logic Square Technologies",
   openGraph: {
-    title: "Pardeep",
+    title: "Pardeep Singh",
     description: "Senior Software Engineer at Logic Square Technologies",
-    url: "https://Pardeep-portfolio.vercel.app/",
-    siteName: "Pardeep",
+    url: "https://Pardeep-singh-portfolio.vercel.app/",
+    siteName: "Pardeep Singh",
     images: [],
     locale: "en-US",
     type: "website",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Pardeep",
+    title: "Pardeep Singh",
     card: "summary_large_image",
   },
   icons: {
