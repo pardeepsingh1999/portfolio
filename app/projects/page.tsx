@@ -76,6 +76,13 @@ export default async function ProjectsPage() {
       tech: "MERN",
     },
     {
+      slug: "Hacker News",
+      title: "Hacker News",
+      description: "News webapp",
+      link: "https://app-hacker-news.vercel.app/",
+      tech: "MERN",
+    },
+    {
       slug: "Let's Chat",
       title: "Let's Chat",
       description:
