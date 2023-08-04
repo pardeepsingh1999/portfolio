@@ -1,7 +1,6 @@
 import { Navigation } from "../components/nav";
 import React from "react";
 import { Card } from "../components/card";
-import Link from "next/link";
 
 const Career = () => {
   const careers = [
