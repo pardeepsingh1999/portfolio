@@ -33,6 +33,13 @@ export default async function ProjectsPage() {
 
   const sorted = [
     {
+      slug: "Cuisine",
+      title: "Cuisine",
+      description: "Chef & Recipes webapp",
+      link: "https://cuisine-a4659.web.app/",
+      tech: "React, Tailwindcss & DaisyUI",
+    },
+    {
       slug: "VaycoPlus",
       title: "VaycoPlus",
       description: "Resort management webapp",
