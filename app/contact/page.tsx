@@ -13,7 +13,7 @@ const socials = [
   },
   {
     icon: <Github size={20} />,
-    href: "https://www.linkedin.com/in/pardeepsingh1999/",
+    href: "https://github.com/pardeepsingh1999",
     label: "Github",
     handle: "pardeepsingh1999",
   },
