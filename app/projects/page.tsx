@@ -11,33 +11,33 @@ export default async function ProjectsPage() {
     title: "TrueFanz",
     description:
       "Social Media webapp, In which we can monetize our content. It has several white labels.",
-    link: "https://www.truefanz.com/",
+    link: "https://fans.truefanz.com/login",
     tech: "MERN",
   };
 
   const top2 = {
-    slug: "Statclub",
-    title: "Statclub",
-    description: "E-Learning webapp",
-    link: "https://statclub-userapp.vercel.app/",
-    tech: "Next, Node",
+    slug: "Closewise",
+    title: "Closewise",
+    description: "Signing business management webapp",
+    link: "https://devapp.closewise.com/",
+    tech: "MERN",
   };
 
   const top3 = {
-    slug: "Augusta Rule",
-    title: "Augusta Rule",
-    description: "Tax Saving webapp",
-    link: "https://augusta-rule.vercel.app/",
-    tech: "Next, Apollo GraphQL",
+    slug: "Smoothire",
+    title: "Smoothire",
+    description: "Human resource management webapp",
+    link: "https://hr-dev.smoothire.com/",
+    tech: "MERN",
   };
 
   const sorted = [
     {
-      slug: "Cuisine",
-      title: "Cuisine",
-      description: "Chef & Recipes webapp",
-      link: "https://cuisine-a4659.web.app/",
-      tech: "React, Tailwindcss & DaisyUI",
+      slug: "Augusta Rule",
+      title: "Augusta Rule",
+      description: "Tax Saving webapp",
+      link: "https://augusta-rule.vercel.app/",
+      tech: "Next, Apollo GraphQL",
     },
     {
       slug: "VaycoPlus",
@@ -47,10 +47,17 @@ export default async function ProjectsPage() {
       tech: "MERN",
     },
     {
-      slug: "Closewise",
-      title: "Closewise",
-      description: "Signing business management webapp",
-      link: "https://closewise-userapp.surge.sh/",
+      slug: "Statclub",
+      title: "Statclub",
+      description: "E-Learning webapp",
+      link: "https://statclub-userapp.vercel.app/",
+      tech: "Next, Node",
+    },
+    {
+      slug: "ERC Approve",
+      title: "ERC Approve",
+      description: "Affiliate marketing webapp",
+      link: "http://erc-approve.surge.sh",
       tech: "MERN",
     },
     {
@@ -59,6 +66,20 @@ export default async function ProjectsPage() {
       description: "Connect Parents webapp",
       link: "http://parentsmeet-admin.surge.sh",
       tech: "MERN",
+    },
+    {
+      slug: "7 Up 7 Down",
+      title: "7 Up 7 Down",
+      description: "7 Up 7 Down Game webapp",
+      link: "https://7-up-7-down.vercel.app/",
+      tech: "MERN",
+    },
+    {
+      slug: "Cuisine",
+      title: "Cuisine",
+      description: "Chef & Recipes webapp",
+      link: "https://cuisine-a4659.web.app/",
+      tech: "React, Tailwindcss & DaisyUI",
     },
     {
       slug: "Gif App",
@@ -74,13 +95,6 @@ export default async function ProjectsPage() {
       description: "Folder directory webapp",
       link: "http://folder-list-create.surge.sh",
       tech: "React",
-    },
-    {
-      slug: "ERC Approve",
-      title: "ERC Approve",
-      description: "Affiliate marketing webapp",
-      link: "http://erc-approve.surge.sh",
-      tech: "MERN",
     },
     {
       slug: "Hacker News",
