@@ -43,7 +43,7 @@ export default function Home() {
           <br />
           I am a highly skilled and experienced MERN (MongoDB, Express.js,
           React.js, and Node.js) Stack Developer.
-          <br />I have more than 3 years of experience in IT company.
+          <br />I have more than 4 years of experience in IT company.
         </h2>
       </div>
     </div>
