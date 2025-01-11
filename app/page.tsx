@@ -38,12 +38,14 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-zinc-500">
-          Hi, my name is Pardeep Singh, I'm Senior Software Development Engineer
-          at Logic Square Technologies.
+          Hello, my name is Pardeep Singh, I am Senior React Developer at Iron
+          Systems India Pvt. Ltd.
           <br />
-          I am a highly skilled and experienced MERN (MongoDB, Express.js,
-          React.js, and Node.js) Stack Developer.
-          <br />I have more than 4 years of experience in IT company.
+          I am a highly skilled and experienced MERN Stack Developer, with
+          strong expertise in React.js, as well as MongoDB, Express.js, and
+          Node.js.
+          <br />I have over more than 5 years of professional experience in IT
+          company.
         </h2>
       </div>
     </div>

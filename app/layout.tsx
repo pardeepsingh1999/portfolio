@@ -9,10 +9,10 @@ export const metadata: Metadata = {
     default: "Pardeep Singh",
     template: "%s | Pardeep Singh",
   },
-  description: "Senior Software Engineer at Logic Square Technologies",
+  description: "Senior React Developer at Iron Systems India Pvt. Ltd.",
   openGraph: {
     title: "Pardeep Singh",
-    description: "Senior Software Engineer at Logic Square Technologies",
+    description: "Senior React Developer at Iron Systems India Pvt. Ltd.",
     url: "https://Pardeep-singh-portfolio.vercel.app/",
     siteName: "Pardeep Singh",
     images: [],

@@ -5,13 +5,20 @@ import { Card } from "../components/card";
 const Career = () => {
   const careers = [
     {
-      companyName: "Logic Square Technologies",
-      designation: "Senior Software Engineer",
-      startDate: "September, 2020",
+      companyName: "Iron Systems India Pvt. Ltd.",
+      designation: "Senior React Developer",
+      startDate: "November, 2024",
       endDate: "Present",
     },
     {
-      companyName: "DOTS (Digital Optimized and Tenacious Solutions)",
+      companyName: "LogicSquare Technologies Pvt. Ltd.",
+      designation: "Senior Software Development Engineer",
+      startDate: "September, 2020",
+      endDate: "October, 2024",
+    },
+    {
+      // companyName: "DOTS (Digital Optimized and Tenacious Solutions)",
+      companyName: "DOTS Pvt. Ltd.",
       designation: "MEAN Stack Developer Internship",
       startDate: "July, 2020",
       endDate: "September, 2020",
