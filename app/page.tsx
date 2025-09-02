@@ -36,8 +36,8 @@ export default function Home() {
       </h1>
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
-      <div className="my-16 text-center animate-fade-in">
-        <h2 className="text-zinc-500 text-justify">
+      <div className="my-16 text-center animate-fade-in mx-2 sm:mx-4 md:mx-8 lg:mx-16">
+        <h2 className="text-zinc-500">
           {/* Hello, my name is Pardeep Singh, I am Senior React Developer at Iron
           Systems India Pvt. Ltd.
           <br />
@@ -48,9 +48,13 @@ export default function Home() {
           company. */}
           {`Hello, my name is Pardeep Singh. I'm a Senior React Developer at Iron
           Systems India Pvt. Ltd., with over 5 years of experience in building
-          modern web and mobile solutions. I specialize in the MERN stack
+          modern web and mobile solutions.`}
+          <br />
+          {`I specialize in the MERN stack
           (MongoDB, Express.js, React.js, Node.js) and have strong expertise in
-          React Native for developing cross-platform mobile applications. My
+          React Native for developing cross-platform mobile applications.`}
+          <br />
+          {`My
           focus is on creating scalable, high-performance products with clean
           code and seamless user experiences.`}
         </h2>
