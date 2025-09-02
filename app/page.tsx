@@ -47,7 +47,7 @@ export default function Home() {
           <br />I have over more than 5 years of professional experience in IT
           company. */}
           {`Hello, my name is Pardeep Singh. I'm a Senior React Developer at Iron
-          Systems India Pvt. Ltd., with over 5 years of experience in building
+          Systems Pvt. Ltd., with over 5 years of experience in building
           modern web and mobile solutions.`}
           <br />
           {`I specialize in the MERN stack
