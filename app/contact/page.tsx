@@ -25,9 +25,9 @@ const socials = [
   },
   {
     icon: <MessageCircle size={20} />,
-    href: "mailto:pardeeps09809@gmail.com",
-    label: "Whatsapp",
-    handle: "+91 836809XXXX",
+    href: "tel:+4915213117384",
+    label: "Contact",
+    handle: "+49 1521 3117384",
   },
 ];
 

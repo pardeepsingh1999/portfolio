@@ -37,15 +37,22 @@ export default function Home() {
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
-        <h2 className="text-zinc-500">
-          Hello, my name is Pardeep Singh, I am Senior React Developer at Iron
+        <h2 className="text-zinc-500 text-justify">
+          {/* Hello, my name is Pardeep Singh, I am Senior React Developer at Iron
           Systems India Pvt. Ltd.
           <br />
           I am a highly skilled and experienced MERN Stack Developer, with
           strong expertise in React.js, as well as MongoDB, Express.js, and
           Node.js.
           <br />I have over more than 5 years of professional experience in IT
-          company.
+          company. */}
+          {`Hello, my name is Pardeep Singh. I'm a Senior React Developer at Iron
+          Systems India Pvt. Ltd., with over 5 years of experience in building
+          modern web and mobile solutions. I specialize in the MERN stack
+          (MongoDB, Express.js, React.js, Node.js) and have strong expertise in
+          React Native for developing cross-platform mobile applications. My
+          focus is on creating scalable, high-performance products with clean
+          code and seamless user experiences.`}
         </h2>
       </div>
     </div>
